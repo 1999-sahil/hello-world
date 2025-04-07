@@ -79,8 +79,8 @@ export const WorkTimeline = ({ data }: { data: TimelineEntry[] }) => {
         <img
           src={
             theme === "dark"
-              ? "/src/assets/dark-arrow.svg"
-              : "/src/assets/light-arrow.svg"
+              ? "/assets/dark-arrow.svg"
+              : "/assets/light-arrow.svg"
           }
           alt="theme-arrow"
           width={150}

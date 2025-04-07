@@ -70,7 +70,7 @@ export const ProjectTimeline = ({ data }: { data: TimelineEntry[] }) => {
 
       <motion.div variants={textVariantsBottom} className="flex items-center justify-center w-full">
         <img
-          src={theme === "dark" ? "/src/assets/dark-arrow.svg" : "/src/assets/light-arrow.svg"}
+          src={theme === "dark" ? "/assets/dark-arrow.svg" : "/assets/light-arrow.svg"}
           alt="theme-arrow"
           width={150}
           height={150}

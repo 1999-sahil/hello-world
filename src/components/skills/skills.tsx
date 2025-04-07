@@ -55,34 +55,34 @@ function Skills() {
       {/** cards */}
       <div className="grid grid-cols-2 lg:grid-cols-3 gap-2">
         <Card
-          src="/src/assets/html-css.svg"
+          src="/assets/html-css.svg"
           title={"HTML & CSS"}
           description="Proficient in building well-structured, semantic HTML and styling with CSS to create visually appealing and user-friendly interfaces."
         />
         <div className="md:rotate-6">
           <Card
-            src="/src/assets/javascript.svg"
+            src="/assets/javascript.svg"
             title={"Javascript"}
             description="Skilled in writing efficient and interactive JavaScript code to enhance user experience and add dynamic functionality to web applications."
           />
         </div>
         <Card
-          src="/src/assets/react.svg"
+          src="/assets/react.svg"
           title={"React"}
           description="Experienced in developing modern, component-based UIs using React.js, with a focus on reusable components and state management."
         />
         <Card
-          src="/src/assets/optimize.svg"
+          src="/assets/optimize.svg"
           title={"Optimization"}
           description="Adept at optimizing web performance through code minification, lazy loading, and efficient resource management for faster load times."
         />
         <Card
-          src="/src/assets/clean-code.svg"
+          src="/assets/clean-code.svg"
           title={"Clean Code"}
           description="Committed to writing clean, maintainable, and well-documented code to ensure scalability and ease of collaboration."
         />
         <Card
-          src="/src/assets/responsive.svg"
+          src="/assets/responsive.svg"
           title={"Responsive Design"}
           description="Expertise in creating responsive designs that ensure seamless user experiences across all devices and screen sizes."
         />

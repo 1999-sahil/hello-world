@@ -23,13 +23,13 @@ export const BouncyCardsFeatures = () => {
         <BounceCard className="col-span-12 md:col-span-4">
           <CardTitle>STRIFE</CardTitle>
           <div className="absolute bottom-0 left-4 right-4 top-32 translate-y-8 rounded-t-2xl bg-white dark:bg-black p-4 transition-transform duration-[250ms] group-hover:translate-y-4 group-hover:rotate-[2deg]">
-            <img src="/src/assets/strife.png" alt="strife" className="w-full object-cover rounded-xl p-2 border h-full" />
+            <img src="/assets/strife.png" alt="strife" className="w-full object-cover rounded-xl p-2 border h-full" />
           </div>
         </BounceCard>
         <BounceCard className="col-span-12 md:col-span-8">
           <CardTitle>Notecraft</CardTitle>
           <div className="absolute bottom-0 left-4 right-4 top-32 translate-y-8 rounded-t-2xl bg-white dark:bg-black p-4 transition-transform duration-[250ms] group-hover:translate-y-4 group-hover:rotate-[2deg]">
-            <img src="/src/assets/notecraft.png" alt="note-craft" className="w-full object-cover rounded-xl p-2 border h-full" />
+            <img src="/assets/notecraft.png" alt="note-craft" className="w-full object-cover rounded-xl p-2 border h-full" />
           </div>
         </BounceCard>
       </div>
@@ -37,13 +37,13 @@ export const BouncyCardsFeatures = () => {
         <BounceCard className="col-span-12 md:col-span-8">
           <CardTitle>CodeFusion</CardTitle>
           <div className="absolute bottom-0 left-4 right-4 top-32 translate-y-8 rounded-t-2xl bg-white dark:bg-black p-4 transition-transform duration-[250ms] group-hover:translate-y-4 group-hover:rotate-[2deg]">
-            <img src="/src/assets/codefusion.png" alt="code-fusion" className="w-full object-cover rounded-xl p-2 border h-full" />
+            <img src="/assets/codefusion.png" alt="code-fusion" className="w-full object-cover rounded-xl p-2 border h-full" />
           </div>
         </BounceCard>
         <BounceCard className="col-span-12 md:col-span-4">
           <CardTitle>Diagram Docs</CardTitle>
           <div className="absolute bottom-0 left-4 right-4 top-32 translate-y-8 rounded-t-2xl bg-white dark:bg-black transition-transform duration-[250ms] group-hover:translate-y-4 group-hover:rotate-[2deg]">
-            <img src="/src/assets/diadocs.png" alt="diagram-docs" className="w-full object-cover rounded-xl p-2 border h-full" />
+            <img src="/assets/diadocs.png" alt="diagram-docs" className="w-full object-cover rounded-xl p-2 border h-full" />
           </div>
         </BounceCard>
       </div>

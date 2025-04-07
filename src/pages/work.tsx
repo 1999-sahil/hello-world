@@ -13,7 +13,7 @@ function Work() {
               {/** image and names */}
               <div className="flex items-center gap-3">
                 <img
-                  src="/src/assets/zidio.png"
+                  src="/assets/zidio.png"
                   alt="zidio-dev"
                   width={80}
                   height={80}
@@ -88,7 +88,7 @@ function Work() {
                 {/** image and names */}
                 <div className="flex items-center gap-3">
                   <img
-                    src="/src/assets/freelance.svg"
+                    src="/assets/freelance.svg"
                     alt="zidio-dev"
                     width={80}
                     height={80}
@@ -191,7 +191,7 @@ function Work() {
                 {/** image and names */}
                 <div className="flex items-center gap-3">
                   <img
-                    src="/src/assets/suven.png"
+                    src="/assets/suven.png"
                     alt="suven"
                     width={80}
                     height={80}
@@ -268,7 +268,7 @@ function Work() {
                 {/** image and names */}
                 <div className="flex items-center gap-3">
                   <img
-                    src="/src/assets/twowait.png"
+                    src="/assets/twowait.png"
                     alt="two-waits"
                     width={80}
                     height={80}
@@ -345,7 +345,7 @@ function Work() {
                 {/** image and names */}
                 <div className="flex items-center gap-3">
                   <img
-                    src="/src/assets/adgitm.png"
+                    src="/assets/adgitm.png"
                     alt="college"
                     width={80}
                     height={80}

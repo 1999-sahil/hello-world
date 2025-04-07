@@ -1,82 +1,82 @@
 export const heroCarousal = [
     {
-        img: "/src/assets/css.svg",
+        img: "/assets/css.svg",
         text: "css",
     },
     {
-        img: "/src/assets/docker.svg",
+        img: "/assets/docker.svg",
         text: "docker",
     },
     {
-        img: "/src/assets/expressjs.svg",
+        img: "/assets/expressjs.svg",
         text: "expressjs",
     },
     {
-        img: "/src/assets/git.svg",
+        img: "/assets/git.svg",
         text: "git",
     },
     {
-        img: "/src/assets/github.svg",
+        img: "/assets/github.svg",
         text: "github",
     },
     {
-        img: "/src/assets/html.svg",
+        img: "/assets/html.svg",
         text: "html",
     },
     {
-        img: "/src/assets/java.svg",
+        img: "/assets/java.svg",
         text: "java",
     },
     {
-        img: "/src/assets/javascript.svg",
+        img: "/assets/javascript.svg",
         text: "javascript",
     },
     {
-        img: "/src/assets/mongodb.svg",
+        img: "/assets/mongodb.svg",
         text: "mongodb",
     },
     {
-        img: "/src/assets/mysql.svg",
+        img: "/assets/mysql.svg",
         text: "mysql",
     },
     {
-        img: "/src/assets/netlify.svg",
+        img: "/assets/netlify.svg",
         text: "netlify",
     },
     {
-        img: "/src/assets/nextjs.svg",
+        img: "/assets/nextjs.svg",
         text: "nextjs",
     },
     {
-        img: "/src/assets/nodejs.svg",
+        img: "/assets/nodejs.svg",
         text: "nodejs",
     },
     {
-        img: "/src/assets/npm.svg",
+        img: "/assets/npm.svg",
         text: "npm",
     },
     {
-        img: "/src/assets/react.svg",
+        img: "/assets/react.svg",
         text: "react",
     },
     {
-        img: "/src/assets/scss.svg",
+        img: "/assets/scss.svg",
         text: "scss",
     },
     {
-        img: "/src/assets/tailwind.svg",
+        img: "/assets/tailwind.svg",
         text: "tailwind",
     },
     {
-        img: "/src/assets/typescript.svg",
+        img: "/assets/typescript.svg",
         text: "typescript",
     },
     {
-        img: "/src/assets/vercel.svg",
+        img: "/assets/vercel.svg",
         text: "vercel",
     },
     {
-        img: "/src/assets/vuejs.svg",
+        img: "/assets/vuejs.svg",
         text: "vuejs",
     },
 ];

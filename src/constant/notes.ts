@@ -1,6 +1,6 @@
 export const notes = [
     {
-        image: "/src/assets/javascript.svg",
+        image: "/assets/javascript.svg",
         title: "Javascript",
         description: "",
         premium: false,
@@ -8,7 +8,7 @@ export const notes = [
         href: "https://www.notion.so/HW-Javascript-1c56f33c367480538ce3d334def06cb8?pvs=4",
     },
     {
-        image: "/src/assets/react.svg",
+        image: "/assets/react.svg",
         title: "React JS",
         description: "",
         premium: false,
@@ -16,7 +16,7 @@ export const notes = [
         href: "https://www.notion.so/HW-React-js-1ce6f33c367480479216c6b0c2f17f8b?pvs=4",
     },
     {
-        image: "/src/assets/dsa.svg",
+        image: "/assets/dsa.svg",
         title: "Data Structures",
         description: "",
         premium: false,
@@ -24,7 +24,7 @@ export const notes = [
         href: "https://www.notion.so/HW-Data-Structures-1ce6f33c36748091a1bfd914ed503272?pvs=4",
     },
     {
-        image: "/src/assets/algo.svg",
+        image: "/assets/algo.svg",
         title: "Algorithms",
         description: "",
         premium: false,
@@ -32,7 +32,7 @@ export const notes = [
         href: "https://www.notion.so/HW-Algorithms-1ce6f33c36748002b33ec0b122f1dba6?pvs=4",
     },
     {
-        image: "/src/assets/nodejs.svg",
+        image: "/assets/nodejs.svg",
         title: "Node JS",
         description: "",
         premium: false,
@@ -40,7 +40,7 @@ export const notes = [
         href: "https://www.notion.so/HW-Node-js-1ce6f33c3674807ea4b5d3508d4a6757?pvs=4",
     },
     {
-        image: "/src/assets/mongodb.svg",
+        image: "/assets/mongodb.svg",
         title: "Mongo DB",
         description: "",
         premium: false,
@@ -48,7 +48,7 @@ export const notes = [
         href: "https://www.notion.so/HW-MongoDB-1ce6f33c367480f78c01d8aa9d2b3ff4?pvs=4",
     },
     {
-        image: "/src/assets/mysql.svg",
+        image: "/assets/mysql.svg",
         title: "My SQL",
         description: "",
         premium: false,
@@ -56,7 +56,7 @@ export const notes = [
         href: "https://www.notion.so/HW-MySql-1ce6f33c36748047b503f7bdac4962ed?pvs=4",
     },
     {
-        image: "/src/assets/oop.svg",
+        image: "/assets/oop.svg",
         title: "Object Oriented Programming",
         description: "",
         premium: false,
