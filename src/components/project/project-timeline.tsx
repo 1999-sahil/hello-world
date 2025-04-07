@@ -6,7 +6,6 @@ import {
 } from "framer-motion";
 import React, { useEffect, useRef, useState } from "react";
 import { AiOutlineFolder } from "react-icons/ai";
-import { FaGithub } from "react-icons/fa";
 import { useTheme } from "../theme-provider";
 import PrimaryButton from "../primary-btn";
 import { textVariantsBottom, textVariantsLeft } from "@/lib/motion";
@@ -21,12 +20,6 @@ export const ProjectTimeline = ({ data }: { data: TimelineEntry[] }) => {
   const containerRef = useRef<HTMLDivElement>(null);
   const [height, setHeight] = useState(0);
   const { theme } = useTheme(); // Ensures SSR consistency
-  const [mounted, setMounted] = useState(false); // Tracks hydration status
-
-  useEffect(() => {
-    setMounted(true); // Ensures this runs only on the client
-  }, []);
-  
 
   useEffect(() => {
     if (ref.current) {
@@ -71,7 +64,6 @@ export const ProjectTimeline = ({ data }: { data: TimelineEntry[] }) => {
           <PrimaryButton
             href="https://github.com/1999-sahil"
             text="Github"
-            Icon={FaGithub}
           />
         </div>
       </motion.div>
