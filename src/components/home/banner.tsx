@@ -1,4 +1,4 @@
-import { Bell, Mail, User } from "lucide-react";
+import { Bell, User } from "lucide-react";
 import PrimaryButton from "../primary-btn";
 import HeroCarousal from "./carousal";
 import { motion } from "framer-motion";
@@ -45,7 +45,6 @@ export default function Banner() {
         >
           <PrimaryButton
             text="Contact me"
-            Icon={Mail}
             href="mailto:sahilahmed466@gmail.com"
           />
         </motion.div>

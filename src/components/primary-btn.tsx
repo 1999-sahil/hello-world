@@ -3,10 +3,9 @@ import { Link } from "react-router-dom";
 interface PrimaryButtonProps {
   text: string;
   href: string;
-  Icon: React.ElementType;
 }
 
-function PrimaryButton({ text, href, Icon }: PrimaryButtonProps) {
+function PrimaryButton({ text, href }: PrimaryButtonProps) {
   const isEmailLink = href.startsWith("mailto:");
 
   const ButtonContent = (

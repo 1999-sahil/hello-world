@@ -1,7 +1,7 @@
 import NotesGridCard from "@/components/notes/card";
 import PrimaryButton from "@/components/primary-btn";
 import { notes } from "@/constant/notes";
-import { Link, LucideNotebookText } from "lucide-react";
+import { LucideNotebookText } from "lucide-react";
 import { motion } from "framer-motion";
 import { textVariantsLeft } from "@/lib/motion";
 
@@ -35,7 +35,7 @@ function Notes() {
           levels. These notes are your cheat codes for becoming a coding master.
         </p>
         <div className="flex items-start justify-start">
-          <PrimaryButton text="Notion" href="" Icon={Link} />
+          <PrimaryButton text="Notion" href="" />
         </div>
       </motion.div>
 

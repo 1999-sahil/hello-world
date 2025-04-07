@@ -3,7 +3,6 @@ import PrimaryButton from "@/components/primary-btn";
 import { textVariantsLeft } from "@/lib/motion";
 import { motion } from "framer-motion";
 import { FaBookOpen } from "react-icons/fa";
-import { Link } from "react-router-dom";
 
 function Blogs() {
     return(
@@ -36,9 +35,9 @@ function Blogs() {
           <strong>CodeFusion</strong>.
                 </p>
                 <div className="flex items-start justify-start gap-3 md:gap-4">
-                  <PrimaryButton text="CodeFusion" href="" Icon={Link} />
-                  <PrimaryButton text="Medium" href="" Icon={Link} />
-                  <PrimaryButton text="DEV" href="" Icon={Link} />
+                  <PrimaryButton text="CodeFusion" href="" />
+                  <PrimaryButton text="Medium" href="" />
+                  <PrimaryButton text="DEV" href="" />
                 </div>
               </motion.div>
         

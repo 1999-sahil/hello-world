@@ -1,4 +1,4 @@
-import { GoArrowDown, GoArrowRight } from "react-icons/go";
+import { GoArrowDown } from "react-icons/go";
 import PrimaryButton from "../primary-btn";
 import { BouncyCardsFeatures } from "./carousal";
 import { useRef } from "react";
@@ -55,7 +55,6 @@ function Project() {
       <div className="flex items-center justify-center w-full md:my-8">
         <PrimaryButton
           href="/projects"
-          Icon={GoArrowRight}
           text="See all projects"
         />
       </div>
